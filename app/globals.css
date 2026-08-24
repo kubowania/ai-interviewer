@@ -1,0 +1,26 @@
+.wrap {
+  max-width: 640px;
+  margin: 3rem auto;
+  padding: 0 1rem;
+  font-family: system-ui;
+}
+
+button {
+  font-size: 1rem;
+  padding: 0.6rem 1.2rem;
+  cursor: pointer;
+}
+
+.transcript {
+  list-style: none;
+  padding: 0;
+  line-height: 1.6;
+}
+
+.partial {
+  color: #999;
+}
+
+.final {
+  color: #111;
+}
