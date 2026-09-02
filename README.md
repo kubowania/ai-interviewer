@@ -1,9 +1,9 @@
 # Ai Interviewer
 
-This tutorial is made to support the full tutorial that you can view [here](XXXX).
+This tutorial is made to support the full tutorial that you can view [here](https://youtu.be/Pkrc_OPQ7LQ).
 
 ## Getting Started
-First, fill out your credentials on a `.env.local` file. Get them from [here](XXXX): 
+First, fill out your credentials on a `.env.local` file. Get them from [here](https://sso2.agora.io/en/signup?utm_source=KOL&utm_medium=Ania-Kubow&utm_campaign=Aug-26).
 
 ```
 NEXT_PUBLIC_AGORA_APP_ID={enter_here}
